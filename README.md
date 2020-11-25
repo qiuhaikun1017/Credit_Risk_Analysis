@@ -11,15 +11,20 @@ To better compare the performance of each models, we have listed the below resul
 
 ### Naive random oversampling algorithm
 ![](Credit_Risk_Analysis/screenhot/1.png)
+
 ### SMOTE algorithm
 ![](2.png)
+
 ### Cluster Centroids algorithm
 ![](3.png)
+
 ### Combination (Over and Under) Sampling
 ![](4.png)
 
 ### Balanced Random Forest Classifier
 ![](5.png)
+
 ### Easy Ensemble AdaBoost classifier
 ![](6.png)
+
 ## Summary
