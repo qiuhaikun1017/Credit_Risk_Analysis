@@ -13,18 +13,18 @@ To better compare the performance of each models, we have listed the below resul
 ![](screenhot/1.png)
 
 ### SMOTE algorithm
-![](2.png)
+![](screenhot/2.png)
 
 ### Cluster Centroids algorithm
-![](3.png)
+![](screenhot/3.png)
 
 ### Combination (Over and Under) Sampling
-![](4.png)
+![](screenhot/4.png)
 
 ### Balanced Random Forest Classifier
-![](5.png)
+![](screenhot/5.png)
 
 ### Easy Ensemble AdaBoost classifier
-![](6.png)
+![](screenhot/6.png)
 
 ## Summary
