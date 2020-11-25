@@ -10,7 +10,7 @@ The challenge for this assignment is that: the number of good loan and the numbe
 To better compare the performance of each models, we have listed the below result from each model:
 
 ### Naive random oversampling algorithm
-![](Credit_Risk_Analysis/screenhot/1.png)
+![](screenhot/1.png)
 
 ### SMOTE algorithm
 ![](2.png)
