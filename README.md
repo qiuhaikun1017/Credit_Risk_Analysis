@@ -28,3 +28,5 @@ To better compare the performance of each models, we have listed the below resul
 ![](screenhot/6.png)
 
 ## Summary
+
+Based on the above screenshot,Balanced Random Forest Classifier and Easy Ensemble AdaBoost classifier obviously outperformed than the others. The improvement on the accuracy and robustness, as well as decrease variance of the model, and therefore increase the overall performance of the model, is due to the concept of ensemble learning: the process of combining multiple models, like decision tree algorithms. In addition to that, using random forest algorithm is beneficial because it works against overfitting as all of those weak learners are trained on different pieces of the data and it is robust to outliers and nonlinear data. And it run efficiently on large datasets.
